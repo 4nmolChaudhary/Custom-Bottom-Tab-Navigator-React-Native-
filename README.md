@@ -4,6 +4,6 @@
 
 ![tabNav](assets/bottomtab.png)
 
-### Example 1
+### Example 2
 
 ![tabNav](assets/btt.png)
