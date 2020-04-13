@@ -2,7 +2,7 @@
 
 ### Example 1
 
-![tabNav](assets/bottomtab.png)
+<img src="assets/bottomtab.png"/>
 
 ### Example 2
 
