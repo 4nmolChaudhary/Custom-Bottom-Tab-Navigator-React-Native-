@@ -2,7 +2,7 @@
 
 ### Example 1
 
-<img src="assets/bottomtab.png" width="451" height="92"/>
+<img src="assets/bottomtab.png" width="451" height="102"/>
 
 ### Example 2
 
