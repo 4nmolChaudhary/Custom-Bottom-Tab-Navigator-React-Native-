@@ -4,6 +4,6 @@
 
 <img src="assets/bottomtab.png" width="451" height="102"/>
 
-### Example 2
+### Type 2
 
 ![tabNav](assets/btt.png)
